@@ -1,2 +1,2 @@
-My first coding task from ALX 
+How to be up to date in git
 
